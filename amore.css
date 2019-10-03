@@ -1,7 +1,85 @@
-h1{
+
+
+h6	
+{
+	color: #fff;
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
 	text-align: center;
-	background-color: #45ded6;
-font-size: 69px;
+}
+
+
+h4{
+
+font-family: 'Rokkitt', serif;	text-align: center;
+color:#ffff;
+
+}
+header
+{
+border-radius: 13px;
+	text-align: center;
+}
+
+p
+{
+	font-family: 'Handlee', cursive;
+	text-align: center;
+	color: #f2f2f2;
+}
+
+
+
+
+footer{
+;
+color: gray;
 
 
 }
+
+
+body
+{
+background-image: url(https://madariagamendoza.cl/wp-content/uploads/2019/01/fondo-gris.jpg);
+}
+
+button
+{
+background-color: #ffda24;
+font-family:  'Bitter', serif;
+border-bottom: 9px;
+size: 9rem;
+}
+
+footer
+{
+text-align:center;
+	font-family:  'Kaushan Script', cursive;
+
+background-image: url(https://img.freepik.com/foto-gratis/texturas-pared-gris-fondo_74190-4389.jpg?size=626&ext=jpg);
+}
+
+
+h3
+{
+	font-family:  'Indie Flower', cursive;
+color: #e9edf2;
+	text-align:center;
+}
+
+
+ul
+{
+	color: white;
+
+	text-align: center;
+}
+
+
+img
+{
+
+	text-align: center;
+}
+
+	
